@@ -1,0 +1,14 @@
+{
+  "name": "super-blog",
+  "keywords": [
+    "ember-addon",
+    "ember-engine"
+  ],
+  "dependencies": {
+    "ember-cli-htmlbars": "*",
+    "ember-cli-babel": "*"
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-optional-chaining": "*"
+  }
+}
